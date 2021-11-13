@@ -1,0 +1,4 @@
+To reproduce the experiment in the paper:
+
+* Run `make so`
+* Run `python main.py`
